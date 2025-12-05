@@ -6,7 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="contact.php">Atpakaļ</a>
+    <ul>
+        <li>
+            <a href="about.php">About.php</a>
+        </li>
+        <li>
+            <a href="contact.php">contact.php</a>
+        </li>
+        <li>
+            <a href="index.html">index.html</a>
+        </li>
+    </ul>
     <?php
         echo "Ziņa tika aizsutīta.";
 

@@ -6,8 +6,15 @@
     <title>Document</title>
 </head>
 <body>
+    <ul>
+        <li>
+            <a href="index.html">index.html</a>
+        </li>
+        <li>
+            <a href="contact.php">contact.php</a>
+        </li>
+    </ul>
     <?php
-        echo "About";
         $indexedArray = [
             "Lorem ipsum dolor sit amet.",
             "Lorem ipsum dolor sit amet, consectetur adipisicing.",
